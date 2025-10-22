@@ -1,0 +1,14 @@
+.contenedor{
+    max-height: 60vh;
+}
+
+img{
+    max-height: 150vh;
+    margin: 0 auto;
+    object-fit: contain;
+    object-position: top;
+}
+
+.vh-50{
+    max-height: 150vh !important;
+}
